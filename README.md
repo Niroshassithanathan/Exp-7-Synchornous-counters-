@@ -92,20 +92,25 @@ begin
 	A[0]=(~A[0])^1;
 end
 endmodule
+```
+### RTL LOGIC 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+## UP COUNTER
 
+![up1](https://github.com/Niroshassithanathan/Exp-7-Synchornous-counters-/assets/121418437/fc0b712e-b05b-47cc-9fbf-219c0654edcb)
 
+ ## DOWN COUNTER  
 
-
-
-
+![dw1](https://github.com/Niroshassithanathan/Exp-7-Synchornous-counters-/assets/121418437/72b54f1a-3861-4535-8991-2af6885db1f1)
 
 ### TIMING DIGRAMS FOR COUNTER  
+## UP COUNTER
 
+![up2](https://github.com/Niroshassithanathan/Exp-7-Synchornous-counters-/assets/121418437/49084acd-f30f-45b8-851c-e4e4eb9340bd)
 
-
-
+ ## DOWN COUNTER  
+ 
+![dw2](https://github.com/Niroshassithanathan/Exp-7-Synchornous-counters-/assets/121418437/a20707c6-c5ef-44e3-a1d6-e03f062363d7)
 
 ### TRUTH TABLE 
 
